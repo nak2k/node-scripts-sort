@@ -1,6 +1,6 @@
 {
   "name": "scripts-sort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sort package.scripts",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
