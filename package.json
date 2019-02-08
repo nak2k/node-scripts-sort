@@ -8,8 +8,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^4.9.0",
-    "tape": "^4.8.0"
+    "eslint": "^5.13.0",
+    "tape": "^4.9.2"
   },
   "homepage": "https://github.com/nak2k/node-scripts-sort",
   "keywords": [
