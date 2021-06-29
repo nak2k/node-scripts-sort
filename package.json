@@ -6,9 +6,7 @@
   "bugs": {
     "url": "https://github.com/nak2k/node-scripts-sort/issues"
   },
-  "dependencies": {},
   "devDependencies": {
-    "eslint": "^5.13.0",
     "tape": "^4.9.2"
   },
   "homepage": "https://github.com/nak2k/node-scripts-sort",
@@ -23,7 +21,6 @@
     "url": "git+https://github.com/nak2k/node-scripts-sort.git"
   },
   "scripts": {
-    "lint": "eslint lib",
     "prepublishOnly": "npm run lint && npm test",
     "test": "tape test/test*.js"
   },
